@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Consultant, technologist, and Agile enthusiast with expertise in product management, software development, technology strategy, and DevOps. Passionate about using modern technology, rapid iteration, getting customer feedback early and often, using data to make decisions, automation over paperwork, streamlining the development pipeline, empowering team members, and creating an entrepreneurial spirit within organizations.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Full-stack developer hobbyist, usually in Python. Latest project is [TravelGreen](https://travelgreen.io), a web application that allows you to ride Uber carbon free.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dlgarber@gmail.com](mailto:dlgarber@gmail.com)
